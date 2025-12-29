@@ -1,0 +1,524 @@
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\appsettings.Development.json
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\appsettings.json
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.staticwebassets.endpoints.json
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.exe
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.deps.json
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.runtimeconfig.json
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.pdb
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\AutoMapper.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Azure.Core.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Azure.Identity.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\BouncyCastle.Crypto.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.AspNetCore.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Extensions.Hosting.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Extensions.Logging.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Formatting.Compact.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Settings.Configuration.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Sinks.Console.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Sinks.Debug.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Sinks.File.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.ClientModel.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Memory.Data.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Text.Json.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.Core.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.Infrastructure.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.Core.pdb
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.Infrastructure.pdb
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.csproj.AssemblyReference.cache
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.AssemblyInfoInputs.cache
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.AssemblyInfo.cs
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.csproj.CoreCompileInputs.cache
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\scopedcss\bundle\CourseManagementSystem.API.styles.css
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\staticwebassets.build.json
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\staticwebassets.development.json
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseMa.CA581E53.Up2Date
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\refint\CourseManagementSystem.API.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.pdb
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.genruntimeconfig.cache
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\ref\CourseManagementSystem.API.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\appsettings.Development.json
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\appsettings.json
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.staticwebassets.endpoints.json
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.exe
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.xml
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.deps.json
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.runtimeconfig.json
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.pdb
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\AutoMapper.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Azure.Core.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Azure.Identity.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\BouncyCastle.Crypto.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.AspNetCore.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Extensions.Hosting.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Extensions.Logging.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Formatting.Compact.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Settings.Configuration.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Sinks.Console.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Sinks.Debug.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Sinks.File.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.ClientModel.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Text.Json.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.Core.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.Infrastructure.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.Core.pdb
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.Infrastructure.pdb
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.csproj.AssemblyReference.cache
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.AssemblyInfoInputs.cache
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.AssemblyInfo.cs
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.csproj.CoreCompileInputs.cache
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\scopedcss\bundle\CourseManagementSystem.API.styles.css
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\staticwebassets.build.json
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\staticwebassets.development.json
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseMa.CA581E53.Up2Date
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\refint\CourseManagementSystem.API.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.pdb
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.genruntimeconfig.cache
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\ref\CourseManagementSystem.API.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\appsettings.Development.json
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\appsettings.json
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.staticwebassets.endpoints.json
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.exe
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.xml
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.deps.json
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.runtimeconfig.json
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.pdb
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\AutoMapper.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Azure.Core.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Azure.Identity.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\BouncyCastle.Crypto.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.AspNetCore.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Extensions.Hosting.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Extensions.Logging.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Formatting.Compact.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Settings.Configuration.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Sinks.Console.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Sinks.Debug.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Sinks.File.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.ClientModel.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Memory.Data.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Text.Json.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.Core.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.Infrastructure.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.Core.pdb
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.Infrastructure.pdb
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.csproj.AssemblyReference.cache
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.AssemblyInfoInputs.cache
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.AssemblyInfo.cs
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.csproj.CoreCompileInputs.cache
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\scopedcss\bundle\CourseManagementSystem.API.styles.css
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\staticwebassets.build.json
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\staticwebassets.development.json
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseMa.CA581E53.Up2Date
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\refint\CourseManagementSystem.API.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.pdb
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.genruntimeconfig.cache
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\ref\CourseManagementSystem.API.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\appsettings.json
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.staticwebassets.endpoints.json
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.exe
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.xml
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.deps.json
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.runtimeconfig.json
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.pdb
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.AspNetCore.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Extensions.Hosting.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Extensions.Logging.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Formatting.Compact.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Settings.Configuration.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Sinks.Console.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Sinks.Debug.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Sinks.File.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.Core.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.Infrastructure.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.Core.pdb
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.Infrastructure.pdb
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.AssemblyInfo.cs
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\scopedcss\bundle\CourseManagementSystem.API.styles.css
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseMa.CA581E53.Up2Date
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\refint\CourseManagementSystem.API.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.pdb
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.genruntimeconfig.cache
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API\obj\Debug\net9.0\ref\CourseManagementSystem.API.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\appsettings.json
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.staticwebassets.endpoints.json
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.exe
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.xml
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.deps.json
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.runtimeconfig.json
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.API.pdb
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.AspNetCore.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Extensions.Hosting.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Extensions.Logging.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Formatting.Compact.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Settings.Configuration.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Sinks.Console.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Sinks.Debug.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Serilog.Sinks.File.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.Core.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.Infrastructure.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.Core.pdb
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\bin\Debug\net9.0\CourseManagementSystem.Infrastructure.pdb
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.AssemblyInfo.cs
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\obj\Debug\net9.0\scopedcss\bundle\CourseManagementSystem.API.styles.css
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\obj\Debug\net9.0\CourseMa.CA581E53.Up2Date
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\obj\Debug\net9.0\refint\CourseManagementSystem.API.dll
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.pdb
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\obj\Debug\net9.0\CourseManagementSystem.API.genruntimeconfig.cache
+C:\Users\HP\Desktop\Submit the final project\CourseManagementSystem\CourseManagementSystem (Web API With Visual Studio)\CourseManagementSystem.API\obj\Debug\net9.0\ref\CourseManagementSystem.API.dll
