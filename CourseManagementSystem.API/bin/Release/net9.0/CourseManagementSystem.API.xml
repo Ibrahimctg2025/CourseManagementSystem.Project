@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CourseManagementSystem.API</name>
+    </assembly>
+    <members>
+        <member name="M:CourseManagementSystem.API.Controllers.AuthController.Login(CourseManagementSystem.Core.DTOs.Auth.LoginDto)">
+            <summary>
+            User login
+            </summary>
+            <param name="loginDto">Login credentials</param>
+            <returns>JWT token response</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.AuthController.Register(CourseManagementSystem.Core.DTOs.Auth.RegisterDto)">
+            <summary>
+            User registration
+            </summary>
+            <param name="registerDto">Registration details</param>
+            <returns>JWT token response</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.CourseCategoryController.GetCourseCategory">
+            <summary>
+            Get all course categories
+            </summary>
+            <returns>List of course categories</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.CourseCategoryController.GetCourseCategory(System.Int32)">
+            <summary>
+            Get course category by ID
+            </summary>
+            <param name="id">Category ID</param>
+            <returns>Course category details</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.CourseCategoryController.CreateCourseCategory(CourseManagementSystem.Core.DTOs.CourseCategory.CreateCourseCategoryDto)">
+            <summary>
+            Create a new course category
+            </summary>
+            <param name="createCategoryDto">Category creation details</param>
+            <returns>Created course category</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.CourseCategoryController.UpdateCourseCategory(System.Int32,CourseManagementSystem.Core.DTOs.CourseCategory.UpdateCourseCategoryDto)">
+            <summary>
+            Update course category
+            </summary>
+            <param name="id">Category ID</param>
+            <param name="updateCategoryDto">Category update details</param>
+            <returns>Updated course category</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.CourseCategoryController.DeleteCourseCategory(System.Int32)">
+            <summary>
+            Delete course category
+            </summary>
+            <param name="id">Category ID</param>
+            <returns>No content</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.CoursesController.GetCourses">
+            <summary>
+            Get all courses
+            </summary>
+            <returns>List of courses</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.CoursesController.GetCourse(System.Int32)">
+            <summary>
+            Get course by ID
+            </summary>
+            <param name="id">Course ID</param>
+            <returns>Course details</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.CoursesController.CreateCourse(CourseManagementSystem.Core.DTOs.Course.CreateCourseDto)">
+            <summary>
+            Create a new course
+            </summary>
+            <param name="createCourseDto">Course creation details</param>
+            <returns>Created course</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.CoursesController.UpdateCourse(System.Int32,CourseManagementSystem.Core.DTOs.Course.UpdateCourseDto)">
+            <summary>
+            Update course
+            </summary>
+            <param name="id">Course ID</param>
+            <param name="updateCourseDto">Course update details</param>
+            <returns>Updated course</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.CoursesController.DeleteCourse(System.Int32)">
+            <summary>
+            Delete course
+            </summary>
+            <param name="id">Course ID</param>
+            <returns>No content</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.CoursesController.GetCoursesByCategory(System.Int32)">
+            <summary>
+            Get courses by category
+            </summary>
+            <param name="categoryId">Category ID</param>
+            <returns>List of courses in specified category</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.CoursesController.GetCoursesByInstructor(System.Int32)">
+            <summary>
+            Get courses by instructor
+            </summary>
+            <param name="instructorId">Instructor ID</param>
+            <returns>List of courses by specified instructor</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.CoursesController.GetMyCourses">
+            <summary>
+            Get current instructor's courses
+            </summary>
+            <returns>List of courses taught by current instructor</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.EnrollmentsController.GetEnrollments">
+            <summary>
+            Get all enrollments
+            </summary>
+            <returns>List of enrollments</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.EnrollmentsController.GetEnrollment(System.Int32)">
+            <summary>
+            Get enrollment by ID
+            </summary>
+            <param name="id">Enrollment ID</param>
+            <returns>Enrollment details</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.EnrollmentsController.CreateEnrollment(CourseManagementSystem.Core.DTOs.Enrollment.CreateEnrollmentDto)">
+            <summary>
+            Create a new enrollment
+            </summary>
+            <param name="createEnrollmentDto">Enrollment creation details</param>
+            <returns>Created enrollment</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.EnrollmentsController.UpdateEnrollment(System.Int32,CourseManagementSystem.Core.DTOs.Enrollment.UpdateEnrollmentDto)">
+            <summary>
+            Update enrollment
+            </summary>
+            <param name="id">Enrollment ID</param>
+            <param name="updateEnrollmentDto">Enrollment update details</param>
+            <returns>Updated enrollment</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.EnrollmentsController.DeleteEnrollment(System.Int32)">
+            <summary>
+            Delete enrollment
+            </summary>
+            <param name="id">Enrollment ID</param>
+            <returns>No content</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.EnrollmentsController.GetEnrollmentsByUser(System.Int32)">
+            <summary>
+            Get enrollments by user
+            </summary>
+            <param name="userId">User ID</param>
+            <returns>List of enrollments for specified user</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.EnrollmentsController.GetEnrollmentsByCourse(System.Int32)">
+            <summary>
+            Get enrollments by course
+            </summary>
+            <param name="courseId">Course ID</param>
+            <returns>List of enrollments for specified course</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.EnrollmentsController.GetMyEnrollments">
+            <summary>
+            Get current user's enrollments
+            </summary>
+            <returns>List of enrollments for current user</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.UsersController.GetUsers">
+            <summary>
+            Get all users
+            </summary>
+            <returns>List of users</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.UsersController.GetUser(System.Int32)">
+            <summary>
+            Get user by ID
+            </summary>
+            <param name="id">User ID</param>
+            <returns>User details</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.UsersController.CreateUser(CourseManagementSystem.Core.DTOs.User.CreateUserDto)">
+            <summary>
+            Create a new user
+            </summary>
+            <param name="createUserDto">User creation details</param>
+            <returns>Created user</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.UsersController.UpdateUser(System.Int32,CourseManagementSystem.Core.DTOs.User.UpdateUserDto)">
+            <summary>
+            Update user
+            </summary>
+            <param name="id">User ID</param>
+            <param name="updateUserDto">User update details</param>
+            <returns>Updated user</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.UsersController.DeleteUser(System.Int32)">
+            <summary>
+            Delete user
+            </summary>
+            <param name="id">User ID</param>
+            <returns>No content</returns>
+        </member>
+        <member name="M:CourseManagementSystem.API.Controllers.UsersController.GetUsersByRole(System.String)">
+            <summary>
+            Get users by role
+            </summary>
+            <param name="roleName">Role name</param>
+            <returns>List of users with specified role</returns>
+        </member>
+    </members>
+</doc>
