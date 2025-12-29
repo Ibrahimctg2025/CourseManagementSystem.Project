@@ -1,0 +1,447 @@
+2025-11-22 19:47:21.141 +06:00 [INF] Effective DB connection: Server=IBRAHIM\SQLEXPRESS;Database=CourseManagementSystemDB;Trusted_Connection=True;TrustServerCertificate=true;MultipleActiveResultSets=true
+2025-11-22 19:47:21.225 +06:00 [INF] DB provider: Microsoft.EntityFrameworkCore.SqlServer
+2025-11-22 19:47:21.251 +06:00 [INF] No migrations were found in assembly 'CourseManagementSystem.Infrastructure'. A migration needs to be added before the database can be updated.
+2025-11-22 19:47:22.995 +06:00 [INF] Executed DbCommand (53ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-11-22 19:47:23.024 +06:00 [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long.
+2025-11-22 19:47:23.100 +06:00 [INF] Executed DbCommand (66ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DECLARE @result int;
+EXEC @result = sp_getapplock @Resource = '__EFMigrationsLock', @LockOwner = 'Session', @LockMode = 'Exclusive';
+SELECT @result
+2025-11-22 19:47:23.439 +06:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+IF OBJECT_ID(N'[__EFMigrationsHistory]') IS NULL
+BEGIN
+    CREATE TABLE [__EFMigrationsHistory] (
+        [MigrationId] nvarchar(150) NOT NULL,
+        [ProductVersion] nvarchar(32) NOT NULL,
+        CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+    );
+END;
+2025-11-22 19:47:23.488 +06:00 [INF] Executed DbCommand (12ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-11-22 19:47:23.492 +06:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-11-22 19:47:23.528 +06:00 [INF] Executed DbCommand (29ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2025-11-22 19:47:23.546 +06:00 [INF] No migrations were applied. The database is already up to date.
+2025-11-22 19:47:23.552 +06:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DECLARE @result int;
+EXEC @result = sp_releaseapplock @Resource = '__EFMigrationsLock', @LockOwner = 'Session';
+SELECT @result
+2025-11-22 19:47:24.111 +06:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Roles] AS [r]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-11-22 19:47:24.188 +06:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Users] AS [u]
+        WHERE [u].[Email] = N'admin') THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-11-22 19:47:24.198 +06:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [CourseCategory] AS [c]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-11-22 19:47:24.287 +06:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Users] AS [u]
+        INNER JOIN [Roles] AS [r] ON [u].[RoleId] = [r].[Id]
+        WHERE [r].[RoleName] = N'Instructor') THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-11-22 19:47:24.295 +06:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Courses] AS [c]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-11-22 19:47:24.308 +06:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Users] AS [u]
+        INNER JOIN [Roles] AS [r] ON [u].[RoleId] = [r].[Id]
+        WHERE [r].[RoleName] = N'Student') THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-11-22 19:47:24.312 +06:00 [INF] Database initialized and seeded successfully
+2025-11-22 19:47:24.319 +06:00 [INF] Course Management System API started successfully
+2025-11-22 19:47:25.045 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-11-22 19:47:25.045 +06:00 [INF] Hosting environment: Development
+2025-11-22 19:47:25.045 +06:00 [INF] Content root path: D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API
+2025-11-22 19:48:17.172 +06:00 [INF] Executed DbCommand (123ms) [Parameters=[@__email_0='?' (Size = 250)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[DateCreated], [u].[Email], [u].[FullName], [u].[PasswordHash], [u].[PhoneNumber], [u].[RoleId], [r].[Id], [r].[Description], [r].[RoleName]
+FROM [Users] AS [u]
+INNER JOIN [Roles] AS [r] ON [u].[RoleId] = [r].[Id]
+WHERE [u].[Email] = @__email_0
+2025-11-22 19:53:26.989 +06:00 [INF] Executed DbCommand (60ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Description], [c].[Name], [c0].[Id], [c0].[CategoryId], [c0].[DateCreated], [c0].[DateUpdated], [c0].[Description], [c0].[DiscountPrice], [c0].[InstructorId], [c0].[Name], [c0].[Price]
+FROM [CourseCategory] AS [c]
+LEFT JOIN [Courses] AS [c0] ON [c].[Id] = [c0].[CategoryId]
+ORDER BY [c].[Id]
+2025-11-22 19:55:20.536 +06:00 [INF] Executed DbCommand (63ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[CategoryId], [c].[DateCreated], [c].[DateUpdated], [c].[Description], [c].[DiscountPrice], [c].[InstructorId], [c].[Name], [c].[Price], [c0].[Id], [c0].[Description], [c0].[Name], [u].[Id], [u].[DateCreated], [u].[Email], [u].[FullName], [u].[PasswordHash], [u].[PhoneNumber], [u].[RoleId]
+FROM [Courses] AS [c]
+INNER JOIN [CourseCategory] AS [c0] ON [c].[CategoryId] = [c0].[Id]
+LEFT JOIN [Users] AS [u] ON [c].[InstructorId] = [u].[Id]
+2025-11-22 19:55:48.857 +06:00 [INF] Executed DbCommand (12ms) [Parameters=[@__email_0='?' (Size = 250)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[DateCreated], [u].[Email], [u].[FullName], [u].[PasswordHash], [u].[PhoneNumber], [u].[RoleId], [r].[Id], [r].[Description], [r].[RoleName]
+FROM [Users] AS [u]
+INNER JOIN [Roles] AS [r] ON [u].[RoleId] = [r].[Id]
+WHERE [u].[Email] = @__email_0
+2025-11-22 19:55:49.703 +06:00 [INF] Executed DbCommand (61ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Description], [c].[Name], [c0].[Id], [c0].[CategoryId], [c0].[DateCreated], [c0].[DateUpdated], [c0].[Description], [c0].[DiscountPrice], [c0].[InstructorId], [c0].[Name], [c0].[Price]
+FROM [CourseCategory] AS [c]
+LEFT JOIN [Courses] AS [c0] ON [c].[Id] = [c0].[CategoryId]
+ORDER BY [c].[Id]
+2025-11-22 20:06:00.039 +06:00 [INF] Executed DbCommand (20ms) [Parameters=[@__name_0='?' (Size = 100)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [c].[Id], [c].[Description], [c].[Name]
+FROM [CourseCategory] AS [c]
+WHERE [c].[Name] = @__name_0
+2025-11-22 20:06:00.593 +06:00 [INF] Executed DbCommand (47ms) [Parameters=[@p0='?' (Size = 500), @p1='?' (Size = 100)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [CourseCategory] ([Description], [Name])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1);
+2025-11-22 20:08:12.015 +06:00 [INF] Executed DbCommand (20ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [c].[Id], [c].[Description], [c].[Name]
+FROM [CourseCategory] AS [c]
+WHERE [c].[Id] = @__p_0
+2025-11-22 21:14:41.452 +06:00 [INF] Executed DbCommand (26ms) [Parameters=[@__email_0='?' (Size = 250)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[DateCreated], [u].[Email], [u].[FullName], [u].[PasswordHash], [u].[PhoneNumber], [u].[RoleId], [r].[Id], [r].[Description], [r].[RoleName]
+FROM [Users] AS [u]
+INNER JOIN [Roles] AS [r] ON [u].[RoleId] = [r].[Id]
+WHERE [u].[Email] = @__email_0
+2025-11-22 21:14:42.455 +06:00 [INF] Executed DbCommand (16ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Description], [c].[Name], [c0].[Id], [c0].[CategoryId], [c0].[DateCreated], [c0].[DateUpdated], [c0].[Description], [c0].[DiscountPrice], [c0].[InstructorId], [c0].[Name], [c0].[Price]
+FROM [CourseCategory] AS [c]
+LEFT JOIN [Courses] AS [c0] ON [c].[Id] = [c0].[CategoryId]
+ORDER BY [c].[Id]
+2025-11-22 21:17:16.316 +06:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Description], [c].[Name], [c0].[Id], [c0].[CategoryId], [c0].[DateCreated], [c0].[DateUpdated], [c0].[Description], [c0].[DiscountPrice], [c0].[InstructorId], [c0].[Name], [c0].[Price]
+FROM [CourseCategory] AS [c]
+LEFT JOIN [Courses] AS [c0] ON [c].[Id] = [c0].[CategoryId]
+ORDER BY [c].[Id]
+2025-11-22 21:25:32.522 +06:00 [INF] Executed DbCommand (20ms) [Parameters=[@__email_0='?' (Size = 250)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[DateCreated], [u].[Email], [u].[FullName], [u].[PasswordHash], [u].[PhoneNumber], [u].[RoleId], [r].[Id], [r].[Description], [r].[RoleName]
+FROM [Users] AS [u]
+INNER JOIN [Roles] AS [r] ON [u].[RoleId] = [r].[Id]
+WHERE [u].[Email] = @__email_0
+2025-11-22 21:25:33.402 +06:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Description], [c].[Name], [c0].[Id], [c0].[CategoryId], [c0].[DateCreated], [c0].[DateUpdated], [c0].[Description], [c0].[DiscountPrice], [c0].[InstructorId], [c0].[Name], [c0].[Price]
+FROM [CourseCategory] AS [c]
+LEFT JOIN [Courses] AS [c0] ON [c].[Id] = [c0].[CategoryId]
+ORDER BY [c].[Id]
+2025-11-22 21:26:27.090 +06:00 [INF] Executed DbCommand (8ms) [Parameters=[@__name_0='?' (Size = 100)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [c].[Id], [c].[Description], [c].[Name]
+FROM [CourseCategory] AS [c]
+WHERE [c].[Name] = @__name_0
+2025-11-22 21:26:27.128 +06:00 [INF] Executed DbCommand (3ms) [Parameters=[@p0='?' (Size = 500), @p1='?' (Size = 100)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [CourseCategory] ([Description], [Name])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1);
+2025-11-22 21:26:27.573 +06:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Description], [c].[Name], [c0].[Id], [c0].[CategoryId], [c0].[DateCreated], [c0].[DateUpdated], [c0].[Description], [c0].[DiscountPrice], [c0].[InstructorId], [c0].[Name], [c0].[Price]
+FROM [CourseCategory] AS [c]
+LEFT JOIN [Courses] AS [c0] ON [c].[Id] = [c0].[CategoryId]
+ORDER BY [c].[Id]
+2025-11-22 21:26:43.569 +06:00 [INF] Executed DbCommand (9ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [c].[Id], [c].[Description], [c].[Name]
+FROM [CourseCategory] AS [c]
+WHERE [c].[Id] = @__p_0
+2025-11-22 21:26:43.572 +06:00 [INF] Executed DbCommand (1ms) [Parameters=[@__name_0='?' (Size = 100)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [c].[Id], [c].[Description], [c].[Name]
+FROM [CourseCategory] AS [c]
+WHERE [c].[Name] = @__name_0
+2025-11-22 21:26:43.602 +06:00 [INF] Executed DbCommand (6ms) [Parameters=[@p2='?' (DbType = Int32), @p0='?' (Size = 500), @p1='?' (Size = 100)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [CourseCategory] SET [Description] = @p0, [Name] = @p1
+OUTPUT 1
+WHERE [Id] = @p2;
+2025-11-22 21:26:43.952 +06:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Description], [c].[Name], [c0].[Id], [c0].[CategoryId], [c0].[DateCreated], [c0].[DateUpdated], [c0].[Description], [c0].[DiscountPrice], [c0].[InstructorId], [c0].[Name], [c0].[Price]
+FROM [CourseCategory] AS [c]
+LEFT JOIN [Courses] AS [c0] ON [c].[Id] = [c0].[CategoryId]
+ORDER BY [c].[Id]
+2025-11-22 21:27:00.820 +06:00 [INF] Executed DbCommand (3ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [c].[Id], [c].[Description], [c].[Name]
+FROM [CourseCategory] AS [c]
+WHERE [c].[Id] = @__p_0
+2025-11-22 21:27:00.852 +06:00 [INF] Executed DbCommand (9ms) [Parameters=[@__categoryId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[CategoryId], [c].[DateCreated], [c].[DateUpdated], [c].[Description], [c].[DiscountPrice], [c].[InstructorId], [c].[Name], [c].[Price], [c0].[Id], [c0].[Description], [c0].[Name], [u].[Id], [u].[DateCreated], [u].[Email], [u].[FullName], [u].[PasswordHash], [u].[PhoneNumber], [u].[RoleId]
+FROM [Courses] AS [c]
+INNER JOIN [CourseCategory] AS [c0] ON [c].[CategoryId] = [c0].[Id]
+LEFT JOIN [Users] AS [u] ON [c].[InstructorId] = [u].[Id]
+WHERE [c].[CategoryId] = @__categoryId_0
+2025-11-22 21:27:00.891 +06:00 [INF] Executed DbCommand (24ms) [Parameters=[@p0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+DELETE FROM [CourseCategory]
+OUTPUT 1
+WHERE [Id] = @p0;
+2025-11-22 21:28:19.126 +06:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[CategoryId], [c].[DateCreated], [c].[DateUpdated], [c].[Description], [c].[DiscountPrice], [c].[InstructorId], [c].[Name], [c].[Price], [c0].[Id], [c0].[Description], [c0].[Name], [u].[Id], [u].[DateCreated], [u].[Email], [u].[FullName], [u].[PasswordHash], [u].[PhoneNumber], [u].[RoleId]
+FROM [Courses] AS [c]
+INNER JOIN [CourseCategory] AS [c0] ON [c].[CategoryId] = [c0].[Id]
+LEFT JOIN [Users] AS [u] ON [c].[InstructorId] = [u].[Id]
+2025-11-22 23:10:55.906 +06:00 [INF] Executed DbCommand (34ms) [Parameters=[@__email_0='?' (Size = 250)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[DateCreated], [u].[Email], [u].[FullName], [u].[PasswordHash], [u].[PhoneNumber], [u].[RoleId], [r].[Id], [r].[Description], [r].[RoleName]
+FROM [Users] AS [u]
+INNER JOIN [Roles] AS [r] ON [u].[RoleId] = [r].[Id]
+WHERE [u].[Email] = @__email_0
+2025-11-22 23:10:57.206 +06:00 [INF] Executed DbCommand (32ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Description], [c].[Name], [c0].[Id], [c0].[CategoryId], [c0].[DateCreated], [c0].[DateUpdated], [c0].[Description], [c0].[DiscountPrice], [c0].[InstructorId], [c0].[Name], [c0].[Price]
+FROM [CourseCategory] AS [c]
+LEFT JOIN [Courses] AS [c0] ON [c].[Id] = [c0].[CategoryId]
+ORDER BY [c].[Id]
+2025-11-22 23:12:41.306 +06:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[CategoryId], [c].[DateCreated], [c].[DateUpdated], [c].[Description], [c].[DiscountPrice], [c].[InstructorId], [c].[Name], [c].[Price], [c0].[Id], [c0].[Description], [c0].[Name], [u].[Id], [u].[DateCreated], [u].[Email], [u].[FullName], [u].[PasswordHash], [u].[PhoneNumber], [u].[RoleId]
+FROM [Courses] AS [c]
+INNER JOIN [CourseCategory] AS [c0] ON [c].[CategoryId] = [c0].[Id]
+LEFT JOIN [Users] AS [u] ON [c].[InstructorId] = [u].[Id]
+2025-11-22 23:15:24.682 +06:00 [INF] Executed DbCommand (13ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [c].[Id], [c].[Description], [c].[Name]
+FROM [CourseCategory] AS [c]
+WHERE [c].[Id] = @__p_0
+2025-11-22 23:15:58.501 +06:00 [INF] Executed DbCommand (4ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [c].[Id], [c].[Description], [c].[Name]
+FROM [CourseCategory] AS [c]
+WHERE [c].[Id] = @__p_0
+2025-11-22 23:17:51.548 +06:00 [INF] Executed DbCommand (7ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [c].[Id], [c].[Description], [c].[Name]
+FROM [CourseCategory] AS [c]
+WHERE [c].[Id] = @__p_0
+2025-11-22 23:17:56.032 +06:00 [INF] Executed DbCommand (5ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [c].[Id], [c].[Description], [c].[Name]
+FROM [CourseCategory] AS [c]
+WHERE [c].[Id] = @__p_0
+2025-11-22 23:18:11.119 +06:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [c].[Id], [c].[Description], [c].[Name]
+FROM [CourseCategory] AS [c]
+WHERE [c].[Id] = @__p_0
+2025-11-22 23:18:17.189 +06:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [c].[Id], [c].[Description], [c].[Name]
+FROM [CourseCategory] AS [c]
+WHERE [c].[Id] = @__p_0
+2025-11-22 23:18:17.210 +06:00 [INF] Executed DbCommand (5ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[DateCreated], [u].[Email], [u].[FullName], [u].[PasswordHash], [u].[PhoneNumber], [u].[RoleId]
+FROM [Users] AS [u]
+WHERE [u].[Id] = @__p_0
+2025-11-22 23:18:17.235 +06:00 [INF] Executed DbCommand (7ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[DateCreated], [u].[Email], [u].[FullName], [u].[PasswordHash], [u].[PhoneNumber], [u].[RoleId], [r].[Id], [r].[Description], [r].[RoleName]
+FROM [Users] AS [u]
+INNER JOIN [Roles] AS [r] ON [u].[RoleId] = [r].[Id]
+WHERE [u].[Id] = @__id_0
+2025-11-22 23:18:17.346 +06:00 [INF] Executed DbCommand (44ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = DateTime2), @p2='?' (DbType = DateTime2), @p3='?' (Size = 4000), @p4='?' (Precision = 18) (Scale = 2) (DbType = Decimal), @p5='?' (DbType = Int32), @p6='?' (Size = 255), @p7='?' (Precision = 18) (Scale = 2) (DbType = Decimal)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Courses] ([CategoryId], [DateCreated], [DateUpdated], [Description], [DiscountPrice], [InstructorId], [Name], [Price])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7);
+2025-11-22 23:18:17.378 +06:00 [INF] Executed DbCommand (4ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [c].[Id], [c].[CategoryId], [c].[DateCreated], [c].[DateUpdated], [c].[Description], [c].[DiscountPrice], [c].[InstructorId], [c].[Name], [c].[Price], [c0].[Id], [c0].[Description], [c0].[Name], [u].[Id], [u].[DateCreated], [u].[Email], [u].[FullName], [u].[PasswordHash], [u].[PhoneNumber], [u].[RoleId]
+FROM [Courses] AS [c]
+INNER JOIN [CourseCategory] AS [c0] ON [c].[CategoryId] = [c0].[Id]
+LEFT JOIN [Users] AS [u] ON [c].[InstructorId] = [u].[Id]
+WHERE [c].[Id] = @__id_0
+2025-11-22 23:20:30.740 +06:00 [INF] Executed DbCommand (5ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [c].[Id], [c].[CategoryId], [c].[DateCreated], [c].[DateUpdated], [c].[Description], [c].[DiscountPrice], [c].[InstructorId], [c].[Name], [c].[Price], [c0].[Id], [c0].[Description], [c0].[Name], [u].[Id], [u].[DateCreated], [u].[Email], [u].[FullName], [u].[PasswordHash], [u].[PhoneNumber], [u].[RoleId]
+FROM [Courses] AS [c]
+INNER JOIN [CourseCategory] AS [c0] ON [c].[CategoryId] = [c0].[Id]
+LEFT JOIN [Users] AS [u] ON [c].[InstructorId] = [u].[Id]
+WHERE [c].[Id] = @__id_0
+2025-11-22 23:20:30.744 +06:00 [INF] Executed DbCommand (2ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [c].[Id], [c].[Description], [c].[Name]
+FROM [CourseCategory] AS [c]
+WHERE [c].[Id] = @__p_0
+2025-11-22 23:23:29.525 +06:00 [INF] Executed DbCommand (10ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [c].[Id], [c].[CategoryId], [c].[DateCreated], [c].[DateUpdated], [c].[Description], [c].[DiscountPrice], [c].[InstructorId], [c].[Name], [c].[Price], [c0].[Id], [c0].[Description], [c0].[Name], [u].[Id], [u].[DateCreated], [u].[Email], [u].[FullName], [u].[PasswordHash], [u].[PhoneNumber], [u].[RoleId]
+FROM [Courses] AS [c]
+INNER JOIN [CourseCategory] AS [c0] ON [c].[CategoryId] = [c0].[Id]
+LEFT JOIN [Users] AS [u] ON [c].[InstructorId] = [u].[Id]
+WHERE [c].[Id] = @__id_0
+2025-11-22 23:23:29.534 +06:00 [INF] Executed DbCommand (6ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[DateCreated], [u].[Email], [u].[FullName], [u].[PasswordHash], [u].[PhoneNumber], [u].[RoleId], [r].[Id], [r].[Description], [r].[RoleName]
+FROM [Users] AS [u]
+INNER JOIN [Roles] AS [r] ON [u].[RoleId] = [r].[Id]
+WHERE [u].[Id] = @__id_0
+2025-11-22 23:23:29.545 +06:00 [INF] Executed DbCommand (8ms) [Parameters=[@p8='?' (DbType = Int32), @p0='?' (DbType = Int32), @p1='?' (DbType = DateTime2), @p2='?' (DbType = DateTime2), @p3='?' (Size = 4000), @p4='?' (Precision = 18) (Scale = 2) (DbType = Decimal), @p5='?' (DbType = Int32), @p6='?' (Size = 255), @p7='?' (Precision = 18) (Scale = 2) (DbType = Decimal)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Courses] SET [CategoryId] = @p0, [DateCreated] = @p1, [DateUpdated] = @p2, [Description] = @p3, [DiscountPrice] = @p4, [InstructorId] = @p5, [Name] = @p6, [Price] = @p7
+OUTPUT 1
+WHERE [Id] = @p8;
+2025-11-22 23:23:29.548 +06:00 [INF] Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [c].[Id], [c].[CategoryId], [c].[DateCreated], [c].[DateUpdated], [c].[Description], [c].[DiscountPrice], [c].[InstructorId], [c].[Name], [c].[Price], [c0].[Id], [c0].[Description], [c0].[Name], [u].[Id], [u].[DateCreated], [u].[Email], [u].[FullName], [u].[PasswordHash], [u].[PhoneNumber], [u].[RoleId]
+FROM [Courses] AS [c]
+INNER JOIN [CourseCategory] AS [c0] ON [c].[CategoryId] = [c0].[Id]
+LEFT JOIN [Users] AS [u] ON [c].[InstructorId] = [u].[Id]
+WHERE [c].[Id] = @__id_0
+2025-11-22 23:24:27.224 +06:00 [INF] Executed DbCommand (23ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [c].[Id], [c].[CategoryId], [c].[DateCreated], [c].[DateUpdated], [c].[Description], [c].[DiscountPrice], [c].[InstructorId], [c].[Name], [c].[Price]
+FROM [Courses] AS [c]
+WHERE [c].[Id] = @__p_0
+2025-11-22 23:24:27.254 +06:00 [INF] Executed DbCommand (17ms) [Parameters=[@p0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+DELETE FROM [Courses]
+OUTPUT 1
+WHERE [Id] = @p0;
+2025-11-22 23:24:27.667 +06:00 [ERR] An exception occurred in the database while saving changes for context type 'CourseManagementSystem.Infrastructure.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The DELETE statement conflicted with the REFERENCE constraint "FK_Enrollments_Course". The conflict occurred in database "CourseManagementSystemDB", table "dbo.Enrollments", column 'CourseId'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithRowsAffectedOnlyAsync(Int32 commandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:d67e59dc-46e7-4930-9084-b5670ad3d25b
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The DELETE statement conflicted with the REFERENCE constraint "FK_Enrollments_Course". The conflict occurred in database "CourseManagementSystemDB", table "dbo.Enrollments", column 'CourseId'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithRowsAffectedOnlyAsync(Int32 commandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:d67e59dc-46e7-4930-9084-b5670ad3d25b
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2025-11-22 23:25:37.013 +06:00 [INF] Effective DB connection: Server=IBRAHIM\SQLEXPRESS;Database=CourseManagementSystemDB;Trusted_Connection=True;TrustServerCertificate=true;MultipleActiveResultSets=true
+2025-11-22 23:25:37.125 +06:00 [INF] DB provider: Microsoft.EntityFrameworkCore.SqlServer
+2025-11-22 23:25:37.161 +06:00 [INF] No migrations were found in assembly 'CourseManagementSystem.Infrastructure'. A migration needs to be added before the database can be updated.
+2025-11-22 23:25:37.854 +06:00 [INF] Executed DbCommand (59ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-11-22 23:25:37.881 +06:00 [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long.
+2025-11-22 23:25:37.930 +06:00 [INF] Executed DbCommand (42ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DECLARE @result int;
+EXEC @result = sp_getapplock @Resource = '__EFMigrationsLock', @LockOwner = 'Session', @LockMode = 'Exclusive';
+SELECT @result
+2025-11-22 23:25:38.363 +06:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+IF OBJECT_ID(N'[__EFMigrationsHistory]') IS NULL
+BEGIN
+    CREATE TABLE [__EFMigrationsHistory] (
+        [MigrationId] nvarchar(150) NOT NULL,
+        [ProductVersion] nvarchar(32) NOT NULL,
+        CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+    );
+END;
+2025-11-22 23:25:38.445 +06:00 [INF] Executed DbCommand (17ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-11-22 23:25:38.460 +06:00 [INF] Executed DbCommand (14ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-11-22 23:25:38.488 +06:00 [INF] Executed DbCommand (18ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2025-11-22 23:25:38.525 +06:00 [INF] No migrations were applied. The database is already up to date.
+2025-11-22 23:25:38.548 +06:00 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DECLARE @result int;
+EXEC @result = sp_releaseapplock @Resource = '__EFMigrationsLock', @LockOwner = 'Session';
+SELECT @result
+2025-11-22 23:25:39.307 +06:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Roles] AS [r]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-11-22 23:25:39.368 +06:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Users] AS [u]
+        WHERE [u].[Email] = N'admin') THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-11-22 23:25:39.381 +06:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [CourseCategory] AS [c]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-11-22 23:25:39.469 +06:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Users] AS [u]
+        INNER JOIN [Roles] AS [r] ON [u].[RoleId] = [r].[Id]
+        WHERE [r].[RoleName] = N'Instructor') THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-11-22 23:25:39.478 +06:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Courses] AS [c]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-11-22 23:25:39.489 +06:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Users] AS [u]
+        INNER JOIN [Roles] AS [r] ON [u].[RoleId] = [r].[Id]
+        WHERE [r].[RoleName] = N'Student') THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-11-22 23:25:39.491 +06:00 [INF] Database initialized and seeded successfully
+2025-11-22 23:25:39.500 +06:00 [INF] Course Management System API started successfully
+2025-11-22 23:25:40.020 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-11-22 23:25:40.020 +06:00 [INF] Hosting environment: Development
+2025-11-22 23:25:40.020 +06:00 [INF] Content root path: D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.API
