@@ -1,0 +1,45 @@
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\bin\Debug\net9.0\CourseManagementSystem.Infrastructure.deps.json
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\bin\Debug\net9.0\CourseManagementSystem.Infrastructure.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\bin\Debug\net9.0\CourseManagementSystem.Infrastructure.pdb
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\bin\Debug\net9.0\CourseManagementSystem.Core.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\bin\Debug\net9.0\CourseManagementSystem.Core.pdb
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\CourseManagementSystem.Infrastructure.csproj.AssemblyReference.cache
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\CourseManagementSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\CourseManagementSystem.Infrastructure.AssemblyInfoInputs.cache
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\CourseManagementSystem.Infrastructure.AssemblyInfo.cs
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\CourseManagementSystem.Infrastructure.csproj.CoreCompileInputs.cache
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\CourseMa.52DDF62A.Up2Date
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\CourseManagementSystem.Infrastructure.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\refint\CourseManagementSystem.Infrastructure.dll
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\CourseManagementSystem.Infrastructure.pdb
+D:\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\ref\CourseManagementSystem.Infrastructure.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\bin\Debug\net9.0\CourseManagementSystem.Infrastructure.deps.json
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\bin\Debug\net9.0\CourseManagementSystem.Infrastructure.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\bin\Debug\net9.0\CourseManagementSystem.Infrastructure.pdb
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\bin\Debug\net9.0\CourseManagementSystem.Core.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\bin\Debug\net9.0\CourseManagementSystem.Core.pdb
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\CourseManagementSystem.Infrastructure.csproj.AssemblyReference.cache
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\CourseManagementSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\CourseManagementSystem.Infrastructure.AssemblyInfoInputs.cache
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\CourseManagementSystem.Infrastructure.AssemblyInfo.cs
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\CourseManagementSystem.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\CourseMa.52DDF62A.Up2Date
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\CourseManagementSystem.Infrastructure.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\refint\CourseManagementSystem.Infrastructure.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\CourseManagementSystem.Infrastructure.pdb
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\ref\CourseManagementSystem.Infrastructure.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\bin\Debug\net9.0\CourseManagementSystem.Infrastructure.deps.json
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\bin\Debug\net9.0\CourseManagementSystem.Infrastructure.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\bin\Debug\net9.0\CourseManagementSystem.Infrastructure.pdb
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\bin\Debug\net9.0\CourseManagementSystem.Core.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\bin\Debug\net9.0\CourseManagementSystem.Core.pdb
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\CourseManagementSystem.Infrastructure.csproj.AssemblyReference.cache
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\CourseManagementSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\CourseManagementSystem.Infrastructure.AssemblyInfoInputs.cache
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\CourseManagementSystem.Infrastructure.AssemblyInfo.cs
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\CourseManagementSystem.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\CourseMa.52DDF62A.Up2Date
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\CourseManagementSystem.Infrastructure.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\refint\CourseManagementSystem.Infrastructure.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\CourseManagementSystem.Infrastructure.pdb
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Infrastructure\obj\Debug\net9.0\ref\CourseManagementSystem.Infrastructure.dll
