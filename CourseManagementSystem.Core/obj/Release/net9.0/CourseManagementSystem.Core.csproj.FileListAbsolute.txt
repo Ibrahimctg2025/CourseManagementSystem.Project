@@ -1,0 +1,22 @@
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Core\bin\Release\net9.0\CourseManagementSystem.Core.deps.json
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Core\bin\Release\net9.0\CourseManagementSystem.Core.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Core\bin\Release\net9.0\CourseManagementSystem.Core.pdb
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Core\obj\Release\net9.0\CourseManagementSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Core\obj\Release\net9.0\CourseManagementSystem.Core.AssemblyInfoInputs.cache
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Core\obj\Release\net9.0\CourseManagementSystem.Core.AssemblyInfo.cs
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Core\obj\Release\net9.0\CourseManagementSystem.Core.csproj.CoreCompileInputs.cache
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Core\obj\Release\net9.0\CourseManagementSystem.Core.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Core\obj\Release\net9.0\refint\CourseManagementSystem.Core.dll
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Core\obj\Release\net9.0\CourseManagementSystem.Core.pdb
+D:\Problem project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Core\obj\Release\net9.0\ref\CourseManagementSystem.Core.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Core\bin\Release\net9.0\CourseManagementSystem.Core.deps.json
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Core\bin\Release\net9.0\CourseManagementSystem.Core.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Core\bin\Release\net9.0\CourseManagementSystem.Core.pdb
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Core\obj\Release\net9.0\CourseManagementSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Core\obj\Release\net9.0\CourseManagementSystem.Core.AssemblyInfoInputs.cache
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Core\obj\Release\net9.0\CourseManagementSystem.Core.AssemblyInfo.cs
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Core\obj\Release\net9.0\CourseManagementSystem.Core.csproj.CoreCompileInputs.cache
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Core\obj\Release\net9.0\CourseManagementSystem.Core.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Core\obj\Release\net9.0\refint\CourseManagementSystem.Core.dll
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Core\obj\Release\net9.0\CourseManagementSystem.Core.pdb
+D:\ASP dotnet  project\CourseManagementSystem\CourseManagementSystem\CourseManagementSystem.Core\obj\Release\net9.0\ref\CourseManagementSystem.Core.dll
